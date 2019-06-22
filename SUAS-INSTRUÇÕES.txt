@@ -1,0 +1,15 @@
+A solução do problema foi desenvolvida inteiramente em javascript, utilizando Node.js.
+
+Para o testes foi utilizado Jest, e a manipulação de objetos e listas foi realizada
+utilizando a biblioteca Ramda.
+
+Para rodar o script, é necessário somente que tenha o node, juntamente com o npm, 
+instalado na máquina. Após isso, rode os seguintes comandos: 
+
+- npm install (instalar as dependências)
+
+- node start (para rodar o script)
+
+- npm test (para rodar os testes)
+
+Obrigado.
